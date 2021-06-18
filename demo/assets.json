@@ -1,0 +1,27 @@
+[
+    {
+        "type": "texture",
+        "name": "smoke",
+        "path": "./texture/",
+        "url": "smoke.png"
+    },
+    {
+        "type": "texture",
+        "name": "firefliesV1",
+        "path": "./texture/",
+        "url": "lens10.png"
+    },
+    {
+        "type": "texture",
+        "name": "firefliesV2",
+        "path": "./texture/",
+        "url": "lens5_1.png"
+    },
+    {
+        "type": "texture",
+        "name": "centerImage",
+        "path": "./texture/",
+        "url": "dental.png",
+        "scale": 1.0
+    }
+]

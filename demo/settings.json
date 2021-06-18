@@ -1,0 +1,14 @@
+[
+    {
+        "type": "app",
+        "speedRotateFireFlies": 1.0,
+        "speedAnimation": 1.0,
+        "backgroundColor": "0x8354ee"
+    },
+    {
+        "type": "smoke",
+        "smokeOpacity": 0.3,
+        "smokeColor": "0x583e97",
+        "num":40
+    }
+]
