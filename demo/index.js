@@ -1,6 +1,6 @@
 "use strict";
 
-import * as $ from '../dist/bundle';
+import * as $ from './lib/bundle';
 import resources from "./assets.json";
 import settings from "./settings.json"
 
